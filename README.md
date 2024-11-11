@@ -21,7 +21,7 @@ This application leverages modern UI elements, real-time updates, and offers a r
 ## Screenshots
 
 - **Dashboard**
-  
+
   ![Dashboard](https://utfs.io/f/kjLlKkAq2owL1lN8IzcCqaE2HIThJAl9uPmboiNdVtSGx4Ls)
 
 ---
@@ -35,9 +35,28 @@ The DSSMS Super Admin application follows the **MVVM (Model-View-ViewModel)** pa
 - **TextBlock** and **Button** controls for interactive UI components
 - **Grid** layouts to arrange components seamlessly
 
-### Download
+---
 
-You can download the latest release from the following link:
+## Installation Instructions
 
-[Download DSSMS Super Admin v1.0.0](https://github.com/neil4th/dssms-super-admin/archive/refs/tags/v1.0.0.zip)
+Follow the steps below to install DSSMS Super Admin using the `.msix` package:
 
+### 1. Download the `.msix` Package
+
+- Go to the **Releases** section of the repository.
+- Download the **.msix** file from the **latest release**.
+
+  [Download DSSMS Super Admin v1.0.0 MSIX](https://github.com/neil4th/dssms-super-admin/releases/download/v1.0.0/DSSMS.SuperAdmin_v1.0.0.msix)
+
+### 2. Install the `.msix` Package
+
+#### For Windows 10/11 Users:
+1. **Double-click** on the `.msix` file you downloaded.
+2. You may be prompted to confirm that you trust the app. If so, click **Install**.
+3. Wait for the installation process to complete. Once done, the application will be available in the **Start Menu**.
+
+#### For IT Administrators (Installing via PowerShell):
+If you need to deploy the app via PowerShell or remotely, use the following command:
+
+```powershell
+Add-AppxPackage -Path "path-to-your-dssms-super-admin.msix"
