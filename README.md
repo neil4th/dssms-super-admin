@@ -35,5 +35,9 @@ The DSSMS Super Admin application follows the **MVVM (Model-View-ViewModel)** pa
 - **TextBlock** and **Button** controls for interactive UI components
 - **Grid** layouts to arrange components seamlessly
 
-### Project Structure
+### Download
+
+You can download the latest release from the following link:
+
+[Download DSSMS Super Admin v1.0.0](https://github.com/neil4th/dssms-super-admin/archive/refs/tags/v1.0.0.zip)
 
