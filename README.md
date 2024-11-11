@@ -20,13 +20,9 @@ This application leverages modern UI elements, real-time updates, and offers a r
 
 ## Screenshots
 
-- **Login Screen**
-  
-  ![Login Screen](screenshots/login.png)
-
 - **Dashboard**
   
-  ![Dashboard](screenshots/dashboard.png)
+  ![Dashboard](https://utfs.io/f/kjLlKkAq2owL1lN8IzcCqaE2HIThJAl9uPmboiNdVtSGx4Ls)
 
 ---
 
